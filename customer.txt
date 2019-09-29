@@ -1,0 +1,2 @@
+Customer id is: 1 ,age: 20, name:spandan, email: spandansparse007@gmail.com,mobile: 8920692804, city: ghaziabad,state: uttar pradesh, pincode: uttar pradesh
+Customer id is: 2 ,age: 21, name:shubham shukla, email: shuklashubham728@gmail.com,mobile: 9198694032, city: allahabad,state: uttar pradesh, pincode: uttar pradesh
